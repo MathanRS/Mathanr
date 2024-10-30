@@ -1,19 +1,30 @@
-# 🚀 Hi there, I'm Mathan Prasath! 👋
-## 🧑‍💻 Data Engineer | Problem Solver | AI Enthusiast
+# 🚀 Welcome to My GitHub!
 
-🧠 About Me
-Hey! I’m a data engineer deeply passionate about using artificial intelligence to solve real-world problems and make a meaningful impact. I’m fascinated by the potential of AI-driven solutions to reshape industries, and I’m here to learn, innovate, and contribute. When I’m not coding, I’m probably exploring the latest in technology trends and dreaming about ways to change the world! 🌍💡
+## 🧑‍💻 **Data Engineer | AI Enthusiast | Problem Solver**
 
-💼 What I Do
-🔸 Data Engineering: Building pipelines and optimizing data workflows to drive powerful insights.
-🔸 Problem Solving: Crafting innovative solutions to tackle challenging DSA problems.
-🔸 AI & ML: Excited about the future of AI and how it can change the world.
+---
 
-⚙️ My Favorite Tools
-Programming: Python 🐍, SQL, Spark
-Frameworks: TensorFlow, PyTorch
-Tools: Airflow, Git
+## 🌌 **About Me**
+Hey there! I’m a **Data Engineer** driven by a passion for **Artificial Intelligence** and **Problem Solving**. My goal is to leverage data to **make a difference** and create **innovative solutions**. Always on the lookout for exciting tech trends, I believe AI can **revolutionize industries** and **impact lives** for the better. Let’s work together to **change the world**! 🌍💡
 
-💡 Let’s Connect!
-I love meeting like-minded people and discussing ideas in AI, data engineering, and innovation. Let’s connect and create something amazing together! 🌌
+---
 
+## 💼 **What I Do**
+
+- **Data Engineering**: 🔹 Building and optimizing **data pipelines** for high-impact insights.  
+- **Problem Solving**: 🔹 Developing innovative solutions with a passion for **DSA**.  
+- **AI & Machine Learning**: 🔹 Exploring cutting-edge **AI technologies** to create smarter solutions.  
+
+---
+
+## ⚙️ **My Favorite Tools**
+
+- **Languages**: Python 🐍, SQL, PySpark
+- **Big Data Technologies**: Hadoop
+-  **Dev Tool**: Airflow, Git
+
+---
+
+## 🤝 **Let’s Connect**
+
+💬 I love connecting with others who are passionate about **AI, data engineering**, and **innovation**. Let’s create something **amazing** together!  
